@@ -12,7 +12,7 @@ const allSongs = [
         title: "Rises the Moon",
         artist: "Liana Flores",
         duration: "3:42",
-        src: "./music/Liana Flores - Rises the Moon (Official Music Video).mp3",
+        src: "./music/liana flores - rises the moon (official music video).mp3",
         img: "./assets/risesthemoon.jpg"
     },
     {
@@ -28,7 +28,7 @@ const allSongs = [
         title: "Love for You",
         artist: "Loveli Lori & ovg!",
         duration: "3:25",
-        src: "./music/Loveli Lori & ovg! - Love for You (Official AMV).mp3",
+        src: "./music/loveli lori & ovg! - love for you (Official AMV).mp3",
         img: "./assets/loveforyou.jpg"
     },
     {
