@@ -85,7 +85,7 @@ const allSongs = [
         artist: "Billie Eilish",
         duration: "3:30",
         src: "./music/Billie Eilish - BIRDS OF A FEATHER (Official Music Video).mp3",
-        img: "./assets/birdofafeather.jpg"
+        img: "./assets/birdofafeather.jpeg"
     }
 ];
 
