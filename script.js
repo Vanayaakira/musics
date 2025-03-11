@@ -79,14 +79,7 @@ const allSongs = [
         src: "./music/Djo - End Of Beginning (Official Audio).mp3",
         img: "./assets/endofbegining.jpg"
     }
-    {
-        id: 9,
-        title: "Bird of a feather",
-        artist: "Billie eilish",
-        duration: "4:05",
-        src: "./music/Billie Eilish - BIRDS OF A FEATHER (Official Music Video).mp3",
-        img: "./assets/birdofafeather.jpeg"
-}
+    
 ];
 
 const audio = new Audio();
